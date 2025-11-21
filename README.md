@@ -4,7 +4,6 @@
 
 **Author:** Rohan Dhameja  
 **Institution:** Bellarmine College Preparatory High School, San Jose, CA  
-**Email:** rohan.dhameja27@bcp.org
 
 ---
 
