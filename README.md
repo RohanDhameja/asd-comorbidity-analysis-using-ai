@@ -3,8 +3,7 @@
 ## Quantifying the Influence of Socioeconomic Factors on Comorbidities in Children with Autism Using Explainable AI
 
 **Author:** Rohan Dhameja  
-**Institution:** Bellarmine College Preparatory High School, San Jose, CA  
-**Email:** rohan.dhameja27@bcp.org
+**Institution:** Bellarmine College Preparatory High School, San Jose, CA
 
 ---
 
@@ -33,7 +32,7 @@ This interactive dashboard visualizes research findings on how Social Determinan
 
 1. **Clone or navigate to the project directory:**
    ```bash
-   cd /Users/rhuria/IYRC
+   cd /Users/asd-comorbidity-analysis
    ```
 
 2. **Install required packages:**
@@ -96,12 +95,12 @@ This interactive dashboard visualizes research findings on how Social Determinan
 ## 📁 Project Structure
 
 ```
-IYRC/
-├── app.py                          # Main Streamlit dashboard
-├── Stanford_Conference.ipynb       # Jupyter notebook with analysis
-├── Autism_SDOH_Comorbidity.csv    # Dataset (2,568 ASD-positive children)
-├── requirements.txt               # Python dependencies
-└── README.md                      # This file
+asd-comorbidity-analysis/
+├── app.py                             # Main Streamlit dashboard
+├── asd_comorbidity_analysis.ipynb    # Jupyter notebook with analysis
+├── Autism_SDOH_Comorbidity.csv       # Dataset (2,568 ASD-positive children)
+├── requirements.txt                  # Python dependencies
+└── README.md                         # This file
 ```
 
 ---
@@ -237,8 +236,7 @@ Bellarmine College Preparatory High School, San Jose, CA.
 
 **Rohan Dhameja**  
 Bellarmine College Preparatory High School  
-San Jose, CA  
-Email: rohan.dhameja27@bcp.org
+San Jose, CA
 
 ---
 
